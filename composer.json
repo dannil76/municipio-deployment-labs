@@ -31,7 +31,7 @@
     }
   ],
   "require": {
-    "php": "^8.0.0 || ^8.1.0 || ^8.2.0 || ^8.3.0 || ^8.4.0",
+    "php": "^8.0.0 || ^8.1.0 || ^8.2.0 || ^8.3.0",
     "composer/installers": "v2.3.0",
     "helsingborg-stad/acf-icon-field": "0.2.46",
     "helsingborg-stad/acf-openstreetmap-field": "0.79.13",
